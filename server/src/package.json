@@ -11,9 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@graphile-contrib/pg-simplify-inflector": "^6.1.0",
     "express": "^4.21.1",
-    "postgraphile": "^4.13.0"
+    "postgraphile": "^5.0.0-beta.33"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
